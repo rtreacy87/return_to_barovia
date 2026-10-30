@@ -25,11 +25,10 @@ I should add, with some injury, that I have been told I am "in no position to re
 
 ## Research requests
 1. Precedents for **scrying detection and countermeasures**: how a scrying sensor is revealed, which wards defeat it, and what else can follow a person across a country (blood, oath, curse, mist-sensitivity).
-2. The **ritual and design of the Candlekeep wards** against the destruction of knowledge, specifically whether they can be transplanted into a building that is not Candlekeep, and what they require (components, guardian, anchor).
-3. Any account of **positive-energy undead** other than mine: living-sworn dead, radiant revenants, undead created by clerics of life or light.
-4. Any record of a **physician-engineer** from beyond the mists who built a fortified town: any "Doctor" connected to artifice, volunteers, or laboratory experiment.
-5. Any word of **Edrin**. Any word at all.
-6. Whether **Rod's book** has said anything more. Erabus can wear another man's face; please ask Rod something only he would know.
+2. Any account of **positive-energy undead** other than mine: living-sworn dead, radiant revenants, undead created by clerics of life or light.
+3. Any record of a **physician-engineer** from beyond the mists who built a fortified town: any "Doctor" connected to artifice, volunteers, or laboratory experiment.
+4. Any word of **Edrin**. Any word at all.
+5. Whether **Rod's book** has said anything more. Erabus can wear another man's face; please ask Rod something only he would know.
 
 
 — Tivwick Bramblequill
